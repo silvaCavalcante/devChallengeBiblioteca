@@ -1,0 +1,27 @@
+{
+  "name": "devchallengebiblioteca",
+  "version": "1.0.0",
+  "description": "<br />\r <p align=\"center\">\r     <img src=\"https://i.pinimg.com/originals/dd/64/da/dd64da585bc57cb05e5fd4d8ce873f57.png\" alt=\"Logo\" width=\"200\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvaCavalcante/devChallengeBiblioteca.git"
+  },
+  "author": "Gustavo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvaCavalcante/devChallengeBiblioteca/issues"
+  },
+  "homepage": "https://github.com/silvaCavalcante/devChallengeBiblioteca#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
